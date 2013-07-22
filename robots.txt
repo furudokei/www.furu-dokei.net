@@ -1,0 +1,3 @@
+# furu-dokei.net/
+
+User-agent: *
